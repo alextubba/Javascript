@@ -1,0 +1,32 @@
+#MobIcon {
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+#Health {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    font-size: xx-large;
+    text-align: center;
+}
+
+#AttackLabel {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    font-size: xx-large;
+    text-align: center;
+}
+
+#Killed {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 100px;
+
+    display: none;
+}
